@@ -3,4 +3,5 @@
     flex-direction: column;
     justify-content: center;
     margin: 56px auto 0;
+    max-width: min-content;
 }
