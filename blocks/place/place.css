@@ -1,6 +1,7 @@
 .place {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(max-content, min-content));
+    grid-template-rows: repeat(2, minmax(max-content, min-content));
     list-style-type: none;
     margin: 92px 0 0;
     max-height: min-content;
