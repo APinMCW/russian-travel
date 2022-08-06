@@ -2,7 +2,8 @@
     display: grid;
     grid-template-columns: repeat(2, minmax(max-content, min-content));
     grid-template-rows: repeat(2, minmax(max-content, min-content));
+    gap: 48px 40px;
     list-style-type: none;
-    margin: 92px 0 0;
+    margin: 80px 0 0;
     max-height: min-content;
 }
