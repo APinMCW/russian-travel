@@ -5,4 +5,5 @@
     grid-auto-flow: row;
     gap: 16px;
     margin: 92px 48px 0;
+    max-width: 1184px;
 }
