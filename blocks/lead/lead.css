@@ -5,3 +5,9 @@
     margin: 56px auto 0;
     max-width: min-content;
 }
+
+@media (max-width: 1024px) {
+    .lead {
+        margin-top: 48px;
+    }
+}
