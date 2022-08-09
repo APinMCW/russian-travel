@@ -2,10 +2,18 @@
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 1.04;
     margin: 0 auto 0;
     text-align: center;
     color: #fff;
     max-width: 720px;
-    min-height: 200px;
+}
+
+@media (max-width: 320px) {
+    .lead__title {
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 1.1;
+        max-width: 288px;
+    }
 }
