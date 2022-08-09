@@ -11,9 +11,21 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 910px) {
     .header {        
         max-width: 720px;
+    }
+}
+
+@media (max-width: 730px) {
+    .header {        
+        max-width: 500px;
+    }
+}
+
+@media (max-width: 500px) {
+    .header {        
+        max-width: 400px;
     }
 }
 
