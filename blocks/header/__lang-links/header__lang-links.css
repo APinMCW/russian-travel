@@ -2,13 +2,13 @@
     margin: 46px 48px 0 0;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .header__lang-links {
         margin: 46px 24px 0 0;
     }
 }
 
-@media (min-width: 320px) {
+@media (max-width: 320px) {
     .header__lang-links {
         margin: 30px 16px 0 0;
     }
