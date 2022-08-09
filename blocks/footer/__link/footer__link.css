@@ -11,3 +11,8 @@
 .footer__link:first-child {
     padding: 0;
 }
+
+.footer__link:hover {
+    opacity: 0.8s;
+    transition: opacity 0.3s;
+}
