@@ -2,8 +2,9 @@
 
 ### Обзор
 * Интро
-* Методология
 * Используемые технологии
+* GitHub Pages
+
 -----
 **Интро**
 
@@ -19,3 +20,8 @@
 * media queries
 * Flexbox
 * Grid Layout
+
+-----
+
+### GitHub Pages
+https://apinmcw.github.io/russian-travel/
