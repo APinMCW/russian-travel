@@ -17,7 +17,7 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 414px) {
     .page {
         max-width: 320px;
     }

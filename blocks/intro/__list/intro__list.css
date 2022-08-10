@@ -10,7 +10,7 @@
     list-style-type: none;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 414px) {
     .intro__list {
         max-width: 288px;
     }
