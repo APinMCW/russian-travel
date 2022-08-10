@@ -3,6 +3,11 @@
     background-size: cover;
     max-width: 1184px;
     min-height: 740px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 @media (max-width: 1024px) {
