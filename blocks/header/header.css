@@ -3,6 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     max-width: 1184px;
+    margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
@@ -14,6 +15,7 @@
 @media (max-width: 910px) {
     .header {        
         max-width: 720px;
+        margin: 0;
     }
 }
 
