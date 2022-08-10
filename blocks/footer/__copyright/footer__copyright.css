@@ -12,5 +12,6 @@
         line-height: 1;
         text-align: left;
         padding-top: 48px;
+        flex-wrap: nowrap;
     }    
 }
