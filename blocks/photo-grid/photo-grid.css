@@ -5,7 +5,7 @@
     grid-auto-flow: row;
     gap: 16px;
     margin: 92px 48px 0;
-    max-width: 100%;
+    max-width: max-content;
 }
 
 @media (max-width: 1024px) {
