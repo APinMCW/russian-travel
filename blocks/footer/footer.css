@@ -5,3 +5,23 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+@media (max-width: 1024px) {
+    .footer {
+        max-width: 928px;
+    }    
+}
+
+@media (max-width: 768px) {
+    .footer {
+        max-width: 720px;
+    }    
+}
+
+@media (max-width: 320px) {
+    .footer {
+        max-width: min-content;
+        flex-direction: column;
+        margin: 64px 16px 0 24px;
+    }    
+}
