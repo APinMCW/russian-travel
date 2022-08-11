@@ -1,6 +1,6 @@
 .place {
     display: grid;
-    grid-template-columns: repeat(2, minmax(max-content, min-content));
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, minmax(max-content, min-content));
     gap: 48px 40px;
     list-style-type: none;
@@ -11,13 +11,11 @@
 @media (max-width: 1024px) {
     .place {
         gap: 48px 32px;
-        max-width: 928px;
     }    
 }
 
 @media (max-width: 768px) {
     .place {
-        max-width: 720px;
         gap: 48px 28px;
         margin: 73px 0 0;
     }    

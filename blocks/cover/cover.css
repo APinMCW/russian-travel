@@ -21,6 +21,7 @@
 @media (min-width: 1024px) {
     .cover:hover::before {
         opacity: 0.8;
+        
     }
 }
 
