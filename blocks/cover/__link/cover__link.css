@@ -3,11 +3,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-height: inherit;
 
     margin: 0;
 
     content: '';
-    position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
